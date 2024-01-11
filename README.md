@@ -11,7 +11,12 @@ Skills: Java/ HTML+CSS/ SQL/ Python/ Pandas/ Agile
 
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-00979D?style=for-the-badge&logo=agile&logoColor=white) ![Data Science](https://img.shields.io/badge/Data%20Science-3766AB?style=for-the-badge&logo=datascience&logoColor=white) ![ML](https://img.shields.io/badge/ML-FFD700?style=for-the-badge&logo=machinelearning&logoColor=white)
+
+
+
+
+
 
 
 
