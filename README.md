@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Bhushan.
 #### Software Developer/Lifelong learner
-![Software Developer/Lifelong learner]
+
 
 *I am a software developer who is interested in learning basically anything that comes my way. I am proficient in Python, Java, Pandas (And few other database stacks). All my projects are designed by me from scratch. You can check them out here on github profile.*
 
