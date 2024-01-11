@@ -2,7 +2,7 @@
 #### Software Developer/Lifelong learner
 
 
-*I am a software developer who is interested in learning basically anything that comes my way. I am proficient in Python, Java, Pandas (And few other database stacks). All my projects are designed by me from scratch. You can check them out here on github profile.*
+*Welcome to my GitHub repository! I'm not just a software developer; I'm a passionate explorer in the vast realms of technology. With a strong foundation in electronics engineering and the distinguished honor of earning my stripes in Data Science, my journey started amidst the intricacies of hardware. Now, I'm on an exhilarating path in software development, fueled by the excitement of bringing ideas to life through code.*
 
 Skills: Java/ HTML+CSS/ SQL/ Python/ Pandas/ Agile
 
