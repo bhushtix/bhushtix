@@ -7,7 +7,17 @@
 Skills: Java/ HTML+CSS/ SQL/ Python/ Pandas/ Agile
 
 - 🔭 I’m currently working on this page. 
-- 📫 How to reach me: gangurdebhushan24@gmail.com 
+- 📫 How to reach me: gangurdebhushan24@gmail.com
+
+name: Full-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.fullyear.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: half-year
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bhushtix)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bhushanpradeep/)  
