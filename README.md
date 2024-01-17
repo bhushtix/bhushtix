@@ -8,7 +8,7 @@ Skills: Java/ HTML+CSS/ SQL/ Python/ Pandas/ Agile
 
 - 🔭 I’m currently working on this page. 
 - 📫 How to reach me:
- [![LinkedIn](https://badgen.net/badge/LinkedIn/Bhushan/blue?icon=linkedin)](https://www.linkedin.com/in/bhushanpradeep/)
+ [![LinkedIn](https://badgen.net/badge/LinkedIn/Bhushan/blue?icon=linkedin)](https://www.linkedin.com/in/bhushanpradeep/){:target="_blank"}
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gangurdebhushan24@gmail.com)
 
 
