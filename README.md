@@ -6,7 +6,8 @@
 
 Skills: Java/ HTML+CSS/ SQL/ Python/ Pandas/ Agile
 
-- 🔭 I’m currently working on this page. 
+ ![Last Commit](https://img.shields.io/github/last-commit/username/repo.svg)
+
 - 📫 How to reach me:
  [![LinkedIn](https://badgen.net/badge/LinkedIn/Profile/blue?icon=linkedin)](https://www.linkedin.com/in/bhushanpradeep/)
 
