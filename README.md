@@ -2,7 +2,7 @@
 #### Software Developer/Lifelong learner
 
 
-*Welcome to my GitHub repository! I'm not just a software developer; I'm a passionate explorer in the vast realms of technology. With a strong foundation in electronics engineering and the distinguished honor of earning my stripes in Data Science, my journey started amidst the intricacies of hardware and software. Now, I'm on an exhilarating path in software development, fueled by the excitement of bringing ideas to life through code.*
+#*Welcome to my GitHub repository! I'm not just a software developer; I'm a passionate explorer in the vast realms of technology. With a strong foundation in electronics engineering and the distinguished honor of earning my stripes in Data Science, my journey started amidst the intricacies of hardware and software. Now, I'm on an exhilarating path in software development, fueled by the excitement of bringing ideas to life through code.*#
 
 Skills: Java/ HTML+CSS/ SQL/ Python/ Pandas/ Agile
 
