@@ -6,7 +6,7 @@
 
 Skills: Java/ HTML+CSS/ SQL/ Python/ Pandas/ Agile/ C++
 
- ![Last Commit](https://img.shields.io/github/last-commit/bhushtix/repo.svg)
+ 
 
 - 📫 How to reach me:
  [![LinkedIn](https://badgen.net/badge/LinkedIn/Profile/blue?icon=linkedin)](https://www.linkedin.com/in/bhushanpradeep/)
